@@ -7,7 +7,7 @@ Official Flexacore Domain Registrar For WHMCS
 
 2.	Upload the folder “modules” to your WHMCS root via FTP (Make sure in your registrars directory you get the folder flexacore)
 
- <img src="cdn.flexacore.com/docs/whmcs/cpanel_upload.png" alt="cPanel Upload">
+ <img src="https://cdn.flexacore.com/docs/whmcs/cpanel_upload.png" alt="cPanel Upload">
 
 
 3.	Go to WHMCS Setup>> Domain Registars >> Flexacore
