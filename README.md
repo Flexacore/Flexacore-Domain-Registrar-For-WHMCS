@@ -7,12 +7,12 @@ Official Flexacore Domain Registrar For WHMCS
 
 2.	Upload the folder “modules” to your WHMCS root via FTP (Make sure in your registrars directory you get the folder flexacore)
 
- <img src="httpscdn.flexacore.com/docs/whmcs/cpanel_upload.png" alt="cPanel Upload">
+ <img src="https://cdn.flexacore.com/docs/whmcs/cpanel_upload.png" alt="cPanel Upload">
 
 
 3.	Go to WHMCS Setup>> Domain Registars >> Flexacore
 
-  <img src="httpscdn.flexacore.com/docs/whmcs/admin_configregistrars.png" alt="Configure Domain Registrars">
+  <img src="https://cdn.flexacore.com/docs/whmcs/admin_configregistrars.png" alt="Configure Domain Registrars">
   
 4.	Fill in with the right details or else the module will not work
 
@@ -29,12 +29,12 @@ b.	AddFee: Adds the domain cost as transaction fee and this helps to have more r
 
 5.	Go to WHMCS Setup>> Domain Pricing and assign the DomainSeller module to tlds that the reseller want to order by you
  
-<img src="httpscdn.flexacore.com/docs/whmcs/admin_configdomains.png" alt="Configure Domain">
+<img src="https://cdn.flexacore.com/docs/whmcs/admin_configdomains.png" alt="Configure Domain">
 
 6.	WHOIS Service of ALL tlds! Edit the file whmcsfolder/includes/whoisservers.php. More at whois_info.txt
 7.	Now it’s time to start selling domains, login to your account at flexacore.com and add funds to your account. Enjoy your sales, cheers.
 
-<img src="httpscdn.flexacore.com/docs/whmcs/admin_user_add_funds.png" alt="Add Funds">
+<img src="https://cdn.flexacore.com/docs/whmcs/admin_user_add_funds.png" alt="Add Funds">
 
 Optional
 8.	Edit the file whmcsfolder/includes/additionaldomainfields.php to define additional domain fields to tld. More at add_domainfileds.txt file 
